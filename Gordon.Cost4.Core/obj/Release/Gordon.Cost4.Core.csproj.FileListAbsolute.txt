@@ -1,0 +1,4 @@
+E:\GordonCost\Gordon.Cost4.Core\bin\Release\Gordon.Cost4.Core.dll
+E:\GordonCost\Gordon.Cost4.Core\bin\Release\Gordon.Cost4.Core.pdb
+E:\GordonCost\Gordon.Cost4.Core\obj\Release\Gordon.Cost4.Core.dll
+E:\GordonCost\Gordon.Cost4.Core\obj\Release\Gordon.Cost4.Core.pdb

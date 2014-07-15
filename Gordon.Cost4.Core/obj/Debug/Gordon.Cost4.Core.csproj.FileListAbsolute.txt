@@ -1,0 +1,8 @@
+C:\Users\Hacson\Desktop\DockPanel_Src\Gordon.Cost4.Core\bin\Debug\Gordon.Cost4.Core.dll
+C:\Users\Hacson\Desktop\DockPanel_Src\Gordon.Cost4.Core\bin\Debug\Gordon.Cost4.Core.pdb
+C:\Users\Hacson\Desktop\DockPanel_Src\Gordon.Cost4.Core\obj\Debug\Gordon.Cost4.Core.dll
+C:\Users\Hacson\Desktop\DockPanel_Src\Gordon.Cost4.Core\obj\Debug\Gordon.Cost4.Core.pdb
+E:\GordonCost\Gordon.Cost4.Core\bin\Debug\Gordon.Cost4.Core.dll
+E:\GordonCost\Gordon.Cost4.Core\bin\Debug\Gordon.Cost4.Core.pdb
+E:\GordonCost\Gordon.Cost4.Core\obj\Debug\Gordon.Cost4.Core.dll
+E:\GordonCost\Gordon.Cost4.Core\obj\Debug\Gordon.Cost4.Core.pdb
