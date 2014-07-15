@@ -346,7 +346,6 @@ namespace Gordon.Cost4.Client
 
         private void MainForm_Load(object sender, System.EventArgs e)
         {
-
             string configFile = Path.Combine(Path.GetDirectoryName(Application.ExecutablePath), "DockPanel.config");
 
             if (File.Exists(configFile))
