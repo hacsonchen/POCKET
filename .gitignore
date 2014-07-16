@@ -1,2 +1,4 @@
 # git ignore file
 /Gordon.Cost4.Client/bin
+/src/Pocket.Clients.Gordon.Cost4/bin
+/src/Pocket.Clients.Gordon.Cost4/obj
